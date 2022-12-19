@@ -16,3 +16,4 @@ The defined project’s algorithm:
 This user interface is an “.exe” file which is able to run in all PCs. The UI sub-scribes to AWS broker and when the IoT device publishes the data as a JSON file it draws and updates temperature diagram real-time. It shows the temperature and setpoint values, the fan/heater condi-tions, temperature diagram for almost one hour and a blank box for entering the setpoint. 
 
 This project is a prototype of a temperature control system. The most advantage of this system is that it is designed cloud-based, therefore not only are we able to ex-tend the IoT devices easily, but also the system can easily interconnect to other de-fined systems in the cloud to do different scenarios. 
+<img width="685" alt="image" src="https://user-images.githubusercontent.com/29564698/208336100-f22577d4-3ae0-4f9e-b11a-ce0e33efc3d7.png">
