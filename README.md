@@ -17,4 +17,8 @@ This user interface is an “.exe” file which is able to run in all PCs. The U
 
 This project is a prototype of a temperature control system. The most advantage of this system is that it is designed cloud-based, therefore not only are we able to ex-tend the IoT devices easily, but also the system can easily interconnect to other de-fined systems in the cloud to do different scenarios. 
 
+AWS IoT Event
+
 <img width="685" alt="image" src="https://user-images.githubusercontent.com/29564698/208336100-f22577d4-3ae0-4f9e-b11a-ce0e33efc3d7.png">
+
+There is an algorithm impelemented in AWS IoT Event which is decided based on the existence conditions (Fan/Heater is on/off). 
